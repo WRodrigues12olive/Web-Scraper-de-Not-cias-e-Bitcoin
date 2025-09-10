@@ -24,8 +24,8 @@ Antes de começar, você precisará ter o [Python 3](https://www.python.org/down
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/bot-noticias-telegram.git
-    cd bot-noticias-telegram
+    git clone https://github.com/WRodrigues12olive/Web-Scraper-de-Noticias-e-Bitcoin
+    cd Web-Scraper-de-Noticias-e-Bitcoin
     ```
 
 2.  **(Opcional, mas recomendado) Crie um ambiente virtual:**
@@ -42,7 +42,7 @@ Antes de começar, você precisará ter o [Python 3](https://www.python.org/down
 
 ## 📝 Configuração
 
-Abra o arquivo `news_bot.py` e configure as seguintes variáveis no início do script:
+Abra o arquivo `Bot.py` e configure as seguintes variáveis no início do script:
 
 1.  `TELEGRAM_BOT_TOKEN`: O token de acesso do seu bot. Para obtê-lo, converse com o [@BotFather](https://t.me/BotFather) no Telegram e siga as instruções para criar um novo bot.
 
